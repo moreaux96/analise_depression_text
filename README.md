@@ -1,1 +1,1 @@
-# depress-o_probabilidade
+# Projeto criado para calcular a precisão de tendencias depressivas em trechos da lingua portuguesa
